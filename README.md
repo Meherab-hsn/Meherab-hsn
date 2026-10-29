@@ -40,7 +40,6 @@
 
 - **[fitkit](https://github.com/Meherab-hsn/fitkit)** — Java project, fitness-focused build.
 - **[Problem-solving](https://github.com/Meherab-hsn/Problem-solving)** — My DSA problem-solving practice in Java.
-- **[CV](https://github.com/Meherab-hsn/CV)** — My CV, built as a web page.
 
 ### 🌱 Currently Learning
 
