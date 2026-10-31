@@ -1,21 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" alt="Meherab Hossain" />
 
 <p align="left">
-  <img src="im.svg" alt="I'm" height="38" />
-</p>
-
-<p align="left">
+  <img src="im.svg" alt="I'm" height="38" /><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=2E9BFF&vCenter=true&width=260&height=40&lines=Meherab+Hossain;Java+Developer" alt="Meherab Hossain — Java Developer" />
 </p>
 
 <p align="center">
-  <b>Meherab Hossain</b> is a Java developer and final-year CSE student at Southeast University, Dhaka, Bangladesh.<br/>
-  He builds backend systems with Java & Spring Boot, practices DSA in Java, and researches Machine Learning.
+  <b>Meherab Hossain</b> is a Java developer and CSE student at Southeast University, Bangladesh.<br/>
+  I build with Java & Spring Boot, practice DSA in Java, and research Machine Learning.
 </p>
 
----
-
 ## About Me
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/BSc_in_CSE-Southeast_University-0A66C2?style=flat-square" alt="BSc in CSE, Southeast University" />
@@ -28,9 +25,9 @@
 - **Full Stack Web Developer** — I build complete web apps, from frontend to backend
 - Currently doing research in the field of **Machine Learning**
 
----
-
 ## Skills
+
+---
 
 **Languages**
 
@@ -65,9 +62,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
 ## Problem Solving
+
+---
 
 <p align="center">
   My <b>Problem-solving</b> repository is where I practice DSA in Java alongside my coursework.
@@ -77,16 +74,16 @@
   <a href="https://github.com/Meherab-hsn/Problem-solving"><img src="https://img.shields.io/badge/View_Repository-Problem--solving-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Problem-solving repository by Meherab Hossain" /></a>
 </p>
 
----
-
 ## Featured Projects
+
+---
 
 - **[fitkit](https://github.com/Meherab-hsn/fitkit)** — Java project, fitness-focused build.
 - **[Emergency SOS Tracker](https://github.com/Meherab-hsn/emergency-sos-tracker)** — Arduino + GPS + GSM device that sends a Google Maps location link to saved contacts on a long button press, with live tracking.
 
----
-
 ## Currently
+
+---
 
 - **Learning:** Data Structures & Algorithms in Java — going deep, step by step
 - **Researching:** Machine Learning — working with Pandas, NumPy and scikit-learn
