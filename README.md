@@ -1,22 +1,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" alt="Meherab Hossain" />
 
-<h1 align="center">
-  I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=2E9BFF&vCenter=true&width=260&height=40&lines=Meherab+Hossain;Java+Developer" alt="Meherab Hossain — Java Developer" />
-</h1>
+<h1 align="left">I'm</h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=2E9BFF&vCenter=true&width=260&height=40&lines=Meherab+Hossain;Java+Developer" alt="Meherab Hossain — Java Developer" />
+</p>
 
 <p align="center">
-  <b>Meherab Hossain</b> is a Java developer and final-year CSE student at Southeast University, Dhaka, Bangladesh — building backend systems with Java & Spring Boot, practicing DSA in Java, and researching Machine Learning.
+  <b>Meherab Hossain</b> is a Java developer and final-year CSE student at Southeast University, Dhaka, Bangladesh.<br/>
+  He builds backend systems with Java & Spring Boot, practices DSA in Java, and researches Machine Learning.
 </p>
 
 ---
 
 ## About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BSc_in_CSE-Southeast_University-0A66C2?style=flat-square" alt="BSc in CSE, Southeast University" />
+  <img src="https://img.shields.io/badge/Final_Year-Student-1F6FEB?style=flat-square" alt="Final year student" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-006A4E?style=flat-square" alt="Dhaka, Bangladesh" />
+</p>
+
 - Final-year BSc in CSE student at **Southeast University, Bangladesh**
 - Currently learning **Java backend development** and **DSA in Java**
 - Also build with **JavaScript**
 - Currently researching **Machine Learning**
-- Goal: becoming a strong backend developer, one data structure at a time
+
+> **Goal:** becoming a strong backend developer, one data structure at a time.
 
 ---
 
@@ -57,10 +67,27 @@
 
 ---
 
+## Problem Solving
+
+<p align="center">
+  <i>Data Structures & Algorithms, practiced in Java — one problem at a time.</i>
+</p>
+
+<p align="center">
+  My <b>Problem-solving</b> repository is where I practice DSA in Java alongside my coursework —<br/>
+  writing clean solutions, revisiting hard problems, and building the problem-solving habit<br/>
+  that every strong developer needs.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Meherab-hsn/Problem-solving"><img src="https://img.shields.io/badge/View_Repository-Problem--solving-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Problem-solving repository by Meherab Hossain" /></a>
+</p>
+
+---
+
 ## Featured Projects
 
 - **[fitkit](https://github.com/Meherab-hsn/fitkit)** — Java project, fitness-focused build.
-- **[Problem-solving](https://github.com/Meherab-hsn/Problem-solving)** — My DSA problem-solving practice in Java.
 - **[Emergency SOS Tracker](https://github.com/Meherab-hsn/emergency-sos-tracker)** — Arduino + GPS + GSM device that sends a Google Maps location link to saved contacts on a long button press, with live tracking.
 
 ---
