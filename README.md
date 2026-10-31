@@ -10,6 +10,8 @@
   I build with Java & Spring Boot, practice DSA in Java, and research Machine Learning.
 </p>
 
+<br/>
+
 ## About Me
 
 <p align="center">
@@ -22,6 +24,8 @@
 - Currently learning **Java backend development** and **DSA in Java**
 - **Full Stack Web Developer** — I build complete web apps, from frontend to backend
 - Currently doing research in the field of **Machine Learning**
+
+<br/>
 
 ## Skills
 
@@ -58,6 +62,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<br/>
+
 ## Problem Solving
 
 <p align="center">
@@ -68,15 +74,21 @@
   <a href="https://github.com/Meherab-hsn/Problem-solving"><img src="https://img.shields.io/badge/View_Repository-Problem--solving-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Problem-solving repository by Meherab Hossain" /></a>
 </p>
 
+<br/>
+
 ## Featured Projects
 
 - **[fitkit](https://github.com/Meherab-hsn/fitkit)** — Java project, fitness-focused build.
 - **[Emergency SOS Tracker](https://github.com/Meherab-hsn/emergency-sos-tracker)** — Arduino + GPS + GSM device that sends a Google Maps location link to saved contacts on a long button press, with live tracking.
+
+<br/>
 
 ## Currently
 
 - **Learning:** Data Structures & Algorithms in Java — going deep, step by step
 - **Researching:** Machine Learning — working with Pandas, NumPy and scikit-learn
 - **Focus:** Clean code and real-world project structure
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Meherab Hossain" />
