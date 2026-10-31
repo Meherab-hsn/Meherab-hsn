@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" alt="Meherab Hossain" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2E9BFF&center=true&vCenter=true&width=620&lines=I%27m+Meherab+Hossain;Java+Developer" alt="I'm Meherab Hossain — Java Developer" />
+  I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=2E9BFF&vCenter=true&width=460&height=60&lines=Meherab+Hossain;Java+Developer" alt="Meherab Hossain — Java Developer" />
 </h1>
 
 <p align="center">
