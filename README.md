@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" alt="Meherab Hossain" />
 
-<h1 align="left">I'm</h1>
+<p align="left">
+  <img src="im.svg" alt="I'm" height="38" />
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=2E9BFF&vCenter=true&width=260&height=40&lines=Meherab+Hossain;Java+Developer" alt="Meherab Hossain — Java Developer" />
@@ -23,10 +25,8 @@
 
 - Final-year BSc in CSE student at **Southeast University, Bangladesh**
 - Currently learning **Java backend development** and **DSA in Java**
-- Also build with **JavaScript**
-- Currently researching **Machine Learning**
-
-> **Goal:** becoming a strong backend developer, one data structure at a time.
+- **Full Stack Web Developer** — I build complete web apps, from frontend to backend
+- Currently doing research in the field of **Machine Learning**
 
 ---
 
@@ -70,13 +70,7 @@
 ## Problem Solving
 
 <p align="center">
-  <i>Data Structures & Algorithms, practiced in Java — one problem at a time.</i>
-</p>
-
-<p align="center">
-  My <b>Problem-solving</b> repository is where I practice DSA in Java alongside my coursework —<br/>
-  writing clean solutions, revisiting hard problems, and building the problem-solving habit<br/>
-  that every strong developer needs.
+  My <b>Problem-solving</b> repository is where I practice DSA in Java alongside my coursework.
 </p>
 
 <p align="center">
