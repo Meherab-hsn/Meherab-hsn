@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Meherab Hossain</b> is a Java developer and CSE student at Southeast University, Bangladesh.<br/>
-  I build with Java & Spring Boot, practice DSA in Java, and research Machine Learning.
+  I build with Java & Spring Boot, practice DSA in Java, and research in Machine Learning.
 </p>
 
 <br/>
