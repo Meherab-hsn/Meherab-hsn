@@ -12,8 +12,6 @@
 
 ## About Me
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/BSc_in_CSE-Southeast_University-0A66C2?style=flat-square" alt="BSc in CSE, Southeast University" />
   <img src="https://img.shields.io/badge/Final_Year-Student-1F6FEB?style=flat-square" alt="Final year student" />
@@ -26,8 +24,6 @@
 - Currently doing research in the field of **Machine Learning**
 
 ## Skills
-
----
 
 **Languages**
 
@@ -64,8 +60,6 @@
 
 ## Problem Solving
 
----
-
 <p align="center">
   My <b>Problem-solving</b> repository is where I practice DSA in Java alongside my coursework.
 </p>
@@ -76,14 +70,10 @@
 
 ## Featured Projects
 
----
-
 - **[fitkit](https://github.com/Meherab-hsn/fitkit)** — Java project, fitness-focused build.
 - **[Emergency SOS Tracker](https://github.com/Meherab-hsn/emergency-sos-tracker)** — Arduino + GPS + GSM device that sends a Google Maps location link to saved contacts on a long button press, with live tracking.
 
 ## Currently
-
----
 
 - **Learning:** Data Structures & Algorithms in Java — going deep, step by step
 - **Researching:** Machine Learning — working with Pandas, NumPy and scikit-learn
